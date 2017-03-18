@@ -5,7 +5,7 @@
 	include_once 'php/functions.php';
 
 	$port = '3306';
-	$link = @mysql_connect('143.95.234.90', 'forgedhe_wp217', 'Db192895!');
+	$link = @mysql_connect('143.95.234.90', 'forgedhe_wp217', '*********');
 	$dbName = "forgedhe_leaderboard";
 	$tableName = "playerData";
 
