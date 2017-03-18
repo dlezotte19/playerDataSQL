@@ -1,5 +1,8 @@
 <?php
-	//Posting and Receiving player data for Forged Hero Mobile MMORPG.
+	/*Posting and Receiving player data for Forged Hero Mobile MMORPG.
+	Test: forgedhero.com/playerdata.php?username=Jake
+	*/
+
 
 	// connect to MySQL database
 	include_once 'php/functions.php';
